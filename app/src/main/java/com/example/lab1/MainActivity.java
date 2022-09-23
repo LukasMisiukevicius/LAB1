@@ -24,6 +24,4 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeTextColorClick(View view) {
         tvMain.setTextColor(Color.RED);
     }
-
-    // This is going to be reverted
 }
